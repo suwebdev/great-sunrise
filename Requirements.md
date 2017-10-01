@@ -1,5 +1,5 @@
 ASSIGNMENTS:
-  Cassie -1, Adan - 2, George - 3, Matt - 4, Bill - 5, Kim - 6, Georgina - 7
+  Cassie -1, Adan -2, George -3, Matt -4, Bill -5, Kim -6, Georgina -7
 
 CATEGORY:
 1.	Navigation (global, internal, footer, etc.)
