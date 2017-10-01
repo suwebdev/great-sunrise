@@ -1,3 +1,5 @@
+INSTRUCTIONS: Please add 3 requirements for your assigned category. We'll add this to the wiki when we have finalized the requirements draft here.
+
 ASSIGNMENTS:
   Cassie -1, Adan -2, George -3, Matt -4, Bill -5, Kim -6, Georgina -7
 
