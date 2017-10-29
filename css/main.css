@@ -4,11 +4,19 @@
    Author's custom styles
    ========================================================================== */
 
+/**** Global styles for Acessibilty ****/
 
+body {
+   color: black;
+	font-family: arial;
+	font-size: 1em;
+	}
 
-
-
-
+a {
+   color: blue;
+	font-family: arial;
+	font-size: 1.3em;
+	}
 
 
 
