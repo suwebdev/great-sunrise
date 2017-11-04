@@ -6,6 +6,17 @@
 
 
 
+/**** Global styles for Acessibilty ****/
++
++body {
++   color: black;
++	font family: Arial, "Helvetica Neue", Helvetica, sans-serif;
++	font-size: 1em;
++	}
++
++a {
++   color: blue;
++	font-family: arial;
 
 
 
